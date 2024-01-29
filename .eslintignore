@@ -1,0 +1,17 @@
+# Ignorar todos los archivos y carpetas dentro de la carpeta "node_modules"
+node_modules/
+
+# Ignorar todos los archivos y carpetas dentro de la carpeta "dist"
+dist/
+
+# Ignorar todos los archivos y carpetas dentro de la carpeta "build"
+build/
+
+# Ignorar todos los archivos y carpetas dentro de la carpeta "coverage"
+coverage/
+
+# Ignorar todos los archivos y carpetas dentro de la carpeta "tmp"
+tmp/
+
+# Ignorar todos los archivos con la extensión ".log"
+*.log
