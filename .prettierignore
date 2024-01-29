@@ -1,0 +1,50 @@
+# Ignorar todos los archivos y carpetas en el directorio node_modules
+node_modules
+
+# Ignorar todos los archivos y carpetas en el directorio dist
+dist
+
+# Ignorar todos los archivos y carpetas en el directorio build
+build
+
+# Ignorar todos los archivos y carpetas en el directorio coverage
+coverage
+
+# Ignorar todos los archivos y carpetas en el directorio .vscode
+.vscode
+
+# Ignorar todos los archivos y carpetas en el directorio .idea
+.idea
+
+# Ignorar todos los archivos y carpetas en el directorio .git
+.git
+
+# Ignorar todos los archivos y carpetas en el directorio .hg
+.hg
+
+# Ignorar todos los archivos y carpetas en el directorio .svn
+.svn
+
+# Ignorar todos los archivos y carpetas en el directorio dist
+dist
+
+# Ignorar todos los archivos y carpetas en el directorio build
+build
+
+# Ignorar todos los archivos y carpetas en el directorio coverage
+coverage
+
+# Ignorar todos los archivos y carpetas en el directorio .vscode
+.vscode
+
+# Ignorar todos los archivos y carpetas en el directorio .idea
+.idea
+
+# Ignorar todos los archivos y carpetas en el directorio .git
+.git
+
+# Ignorar todos los archivos y carpetas en el directorio .hg
+.hg
+
+# Ignorar todos los archivos y carpetas en el directorio .svn
+.svn
