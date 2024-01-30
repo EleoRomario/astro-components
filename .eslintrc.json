@@ -1,4 +1,5 @@
 {
+  "parser": "@typescript-eslint/parser",
   "extends": ["plugin:astro/recommended", "eslint:recommended"],
   "overrides": [
     {
@@ -13,5 +14,9 @@
         "no-unused-vars": "warn"
       }
     }
-  ]
+  ],
+  "rules": {
+    "no-undef": "off",
+    "no-unused-vars": "warn"
+  }
 }
